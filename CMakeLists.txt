@@ -12,4 +12,6 @@ add_executable(lab_lviv_polytechnic_national_university_ lab_1.cpp
         AVLTree.cpp
         comparisonOfTrees.cpp
         lab_6.cpp
+        reverseStack.cpp
+        lab_7.cpp
 )
