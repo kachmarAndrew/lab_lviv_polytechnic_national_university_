@@ -17,4 +17,5 @@ add_executable(lab_lviv_polytechnic_national_university_ lab_1.cpp
         lab_8.cpp
         lab_9.cpp
         FamilyTree.cpp
+        AVLTree21.cpp
 )
