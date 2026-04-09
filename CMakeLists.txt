@@ -18,4 +18,6 @@ add_executable(lab_lviv_polytechnic_national_university_ lab_1.cpp
         lab_9.cpp
         FamilyTree.cpp
         AVLTree21.cpp
+        2-3tree-4-variant.cpp
+        hash-table-4-variant.cpp
 )
